@@ -3,7 +3,7 @@
 2)Add Flicker-consume.local to hosts config:
 sudo vim /etc/hosts
 add:
-192.168.99.100  flickr-consume.local
+192.168.99.100  flickr-consume.dev
 
 
 Paste the .env file used to store the configurations
